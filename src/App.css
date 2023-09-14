@@ -1,0 +1,194 @@
+.App {
+  text-align: center;
+}
+.cardbackground:hover {
+  color: green;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.App-link {
+  color: #61dafb;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+@media screen and (max-width: 1600px) {
+  #card1 {
+    width: 340px;
+  }
+
+  #card2 {
+    width: 340px;
+  }
+
+  .divv {
+    padding-right: 10px;
+  }
+}
+@media screen and (max-width: 1434px) {
+  #card1 {
+    width: 320px;
+  }
+
+  #card2 {
+    width: 320px;
+  }
+
+  .divv {
+    padding-right: 10px;
+  }
+}
+@media screen and (max-width: 1354px) {
+  #card1 {
+    width: 300px;
+    margin-left: 10px;
+  }
+
+  #card2 {
+    width: 300px;
+    margin-left: 10px;
+  }
+
+  .divv {
+    /* margin-right:-100px; */
+  }
+}
+@media screen and (max-width: 1318px) {
+  #card1 {
+    width: 280px;
+    margin-left: 20px;
+  }
+
+  #card2 {
+    width: 280px;
+    margin-left: 20px;
+  }
+
+  .divv {
+    /* margin-right:-100px; */
+  }
+}
+@media screen and (max-width: 1270px) {
+  #card1 {
+    width: 270px;
+    margin-left: 20px;
+  }
+
+  #card2 {
+    width: 270px;
+    margin-left: 20px;
+  }
+
+  .divv {
+    /* margin-right:-100px; */
+  }
+}
+@media screen and (max-width: 1236px) {
+  #card1 {
+    width: 260px;
+    margin-left: 20px;
+  }
+
+  #card2 {
+    width: 260px;
+    margin-left: 20px;
+  }
+
+  .divv {
+    /* margin-right:-100px; */
+  }
+}
+@media screen and (max-width: 1186px) {
+  #card1 {
+    width: 375px;
+    height: 200px;
+    margin-left: 25px;
+  }
+
+  #card2 {
+    width: 375px;
+    height: 200px;
+    margin-left: 25px;
+  }
+
+  .divv {
+    padding-left: 20px;
+    /* margin-right:-100px; */
+  }
+}
+@media screen and (max-width: 1154px) {
+  #card1 {
+    width: 350px;
+  }
+
+  #card2 {
+    width: 350px;
+  }
+
+  .divv {
+    /* margin-right:-100px; */
+    padding-left: 20px;
+  }
+}
+@media screen and (max-width: 1126px) {
+  #card1 {
+    width: 350px;
+  }
+
+  #card2 {
+    width: 350px;
+  }
+
+  .divv {
+    /* margin-right:-100px; */
+    padding-left: 10px;
+  }
+}
+@media screen and (max-width: 1080px) {
+  #card1 {
+    width: 340px;
+  }
+
+  #card2 {
+    width: 340px;
+  }
+
+  .divv {
+    /* margin-right:-100px; */
+  }
+}
+@media screen and (max-width: 1060px) {
+  #card1 {
+    width: 330px;
+  }
+
+  #card2 {
+    width: 330px;
+  }
+
+  .divv {
+    /* margin-right:-100px; */
+  }}
